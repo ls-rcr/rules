@@ -1,5 +1,3 @@
-export const RULES_ENGLISH = `
-
 # Lsrcr Rules
 
 1. # Rules of *All* Lsrcr Services
@@ -146,4 +144,4 @@ export const RULES_ENGLISH = `
          1. An administrator may need to violate rule 1.1.8 in order to resolve a support ticket issue such as changing a player's email on their behalf. This would be an appropriate usage of this exception.
          2. If an administrator publicly posted a player's email address on the forum, this would not be an appropriate usage of this exception, and would be a flagrant violation of the server rules and players' trust.
          3. If an administrator were to deathmatch a player to further investigate one who they determine may be utilizing cheats, this would be an appropriate usage of this exception.
-`;
+

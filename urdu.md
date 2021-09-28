@@ -1,5 +1,3 @@
-export const RULES_URDU = `
-
 # Lsrcr Qawaid
 
 1. ## Qawaid of <u>All</u> Lsrcr Services
@@ -148,4 +146,4 @@ export const RULES_URDU = `
          1. Koi bhi admin rule 1.1.8 ko tor kar support ticket hal karnay kay liye player ki email change karsakta hai unkay liye. Yeh munasib hai.
          2. Koi bhi admin kisi bhi player ka email public main post nahi kar sakta. Yeh na munasib hai aur is kay karnay say admin par action liya jayega.
          3. Aik admin agar kisi player ko deathmatch karay yeh dekhnay kay liye kay agar woh cheating kar raha hai tou yeh munasib hai.
-`;
+

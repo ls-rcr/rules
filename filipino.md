@@ -1,5 +1,3 @@
-export const RULES_FILIPINO = `
-
 # Alituntunin ng LSRCR
 
 1. # Alituntunin ng Serbisyo ng LSRCR
@@ -136,4 +134,4 @@ export const RULES_FILIPINO = `
          3. Kung ang *administrator* ay kailangang mag Deathmatch para sa inbestigasyon o patunayang gumagamit ng pandaraya(cheats) ang isang manlalaro, ito ay maaari at maayos na gamit sa pagbukod.
 
 \`\`Translated and maintained by Andro_Pineda, Cheez\`\`
-`;
+
