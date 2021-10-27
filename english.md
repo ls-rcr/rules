@@ -46,7 +46,7 @@
             2. Shooting a vehicle where the driver is innocent, but you are justified in shooting the passenger(s) is allowed.
             3. Utilizing melee weapons, excluding chainsaw, you may attack any person for any reason. Vehicles are NOT considered melee weapons for the purposes of this exception. This exception does not allow violating harassment rules (rule 2.1.2).
          7. EXCEPTIONS to rule 2.1.1.4:
-            1. Pagati members may carry out their own hits in the course of proper Pagati roleplay.
+            1. Pagati members may carry out their own hits in the course of proper Pagati roleplay, if the hit was placed by the server for Pagati automatically, or if intruders enter the Pagati base without permission and do not leave when asked by members to do so, in which case they may open fire.
       2. **Harass others**. Harassment includes:
          1. Committing any of the following after being asked by the other player to stop:
             1. Following someone for more than three (3) minutes within a ten (10) minute period unless attacking as allowed by rule 2.1.1 (excluding rule 2.1.1.6.3).
@@ -56,6 +56,7 @@
                1. Law enforcement - when chasing a wanted player
                2. Hitmen - when chasing a player with a hit
                3. Pagati - in the course of proper Pagati roleplay or when chasing a player with a hit
+         3. Intentionally carrying out acts of suicide to trigger anti-DM measures on others. This includes, but is not limited to, deliberately jumping on heli-blades with intent to quiz and/or jail the pilot.
       3. **Abuse commands**. Command abusing includes:
          1. Using /rp without a valid reason. Valid reasons include, but are not limited to:
             1. Holding a weapon in public
@@ -63,6 +64,10 @@
             3. Reckless driving
             4. Damaging property
          2. Using /tune to avoid damage to your vehicle for any reason.
+         3. Misuse of the /cuff command. This includes:
+            1. Repeated cuffing of innocents, who do not show hostility, following a /search.
+            2. Repeated (un)cuffing of hitmen as a means of taking them down.
+         4. Using animation commands as a means of avoiding damage and/or death. This includes, but is not limited to, misusing anims such as /fall or /rollfall.
       4. **Cheat**. Cheating includes:
          1. Using any modification or tool that may give you an unfair advantage over another player who does not use the tool or modification. This includes, but is not limited to any of the following:
             1. Aimbot
@@ -74,6 +79,7 @@
          4. Entering the menu (Esc) or minimizing the game to evade a player allowed to kill you per rule 2.1.1.
          5. Warping through solid objects to evade a player allowed to kill you or to access an otherwise inaccessible area by entering the passenger seat of vehicles ("G" abuse).
          6. Refilling your armor more than once from weapon checkpoints in the middle of a fight.
+         7. C-Bugging to generate a faster reload time by circumventing the reloading animation.
       5. **Place random hits**. Valid hit reasons include hitting a player within five (5) minutes of any of the following actions being taken:
          1. For successfully or unsuccessfully committing a "hostile action" against you as defined in rule 2.1.2.2.
          2. For arresting or fining you.
@@ -92,7 +98,7 @@
       9. **Scoreboost**. Scoreboosting is repeatedly selling items, weapons, etc, or otherwise increasing your score in a particular class by collaborating with another account or by any other means in order to increase your score at an expedited rate. Leaving to evade cooldown timers shall also be considered scoreboosting.
       10. **Improperly use chat channels**:
           1. All chat channels shall be used for their original intended purpose. This includes administrative channels such as /ask or /adm.
-          2. Under no circumstances shall any non-English language be spoken in main chat.
+          2. Under no circumstances shall any non-English language be spoken in main chat. This includes class channels such as /cm or /tm.
           3. Do not make /q and/or /reconnect jokes as a way of tricking players to closing/restarting their connection to the server.
           4. Posting links other than those from the domain "ls-rcr.com".
       11. **Improperly utilize the water cannon**. The water cannon shall only be used when killing is allowed under rule 2.1.1.
@@ -110,6 +116,10 @@
           4. The victim of the scam has at least 500 score.
       17. **Ban evade**. You may not circumvent the ban system by creating another account and/or using a different IP address from the one that is banned.
       18. **Asking staff members to do events or for packets, teleports, etc**.
+      19. **Interrupt Pagati in their course of official roleplay**. You should not deliberately carry out any actions that could lead to a player being withdrawn from their roleplaying activity. This includes, but is not limited to, the following:
+          1. Cuffing, searching and/or arresting.
+          2. Raping and/or kidnapping.
+          3. Melee DM.
 
 3. # Lsrcr Forum-Specific Rules
 
