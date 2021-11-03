@@ -120,6 +120,7 @@
           1. Cuffing, searching and/or arresting.
           2. Raping and/or kidnapping.
           3. Melee DM.
+          4. **NOTE:** This rule does NOT apply when Pagati engage in normal gameplay and/or carry a wanted level (permissing LEOs to engage as per normal).
 
 3. # Lsrcr Forum-Specific Rules
 
