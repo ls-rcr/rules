@@ -36,14 +36,14 @@
 
    1. **You or your account(s) shall not--intentionally or unintentionally--do any of the following actions**:
       1. **Deathmatch**. Deathmatch includes:
-         1. Shooting or otherwise causing damage to innocent players as an innocent or law enforcement officer.
+         1. Shooting or otherwise causing damage to unwanted or innocent players as an unwanted or law enforcement officer.
          2. Shooting or otherwise causing damage to another player who you <u>successfully</u> robbed, raped, broke, etc. before they attacked you first.
          3. Shooting or otherwise causing damage to another player who only <u>unsuccessfully</u> robbed, raped, broke, etc. you.
          4. Carrying out your own hit.
          5. Assisting another kill someone where you had no justification to attack.
          6. EXCEPTIONS to rule 2.1.1.1 through 2.1.1.5:
             1. A hitman may kill any player who has a hit with the exception of their own hits.
-            2. Shooting a vehicle where the driver is innocent, but you are justified in shooting the passenger(s) is allowed.
+            2. Shooting a vehicle where you are not justified in shooting the driver, but you are justified in shooting the passenger(s) is allowed.
             3. Utilizing melee weapons, excluding chainsaw, you may attack any person for any reason. Vehicles are NOT considered melee weapons for the purposes of this exception. This exception does not allow violating harassment rules (rule 2.1.2).
          7. EXCEPTIONS to rule 2.1.1.4:
             1. Pagati members may carry out their own hits in the course of proper Pagati roleplay.
@@ -65,7 +65,9 @@
             4. Damaging property
          2. Using /tune to avoid damage to your vehicle for any reason.
          3. Misuse of the /cuff command. This includes, but is not limited to:
-            1. Repeated cuffing of innocents, who do not show hostility, following a /search.
+            1. Repeated cuffing of innocents or unwanted players who do not show hostility, following a /search.
+            2. Utilizing the /cuff command as a weapon against an unwanted or innocent hitman. This rule does not restrict the use of /cuff to conduct one (1) search or /rp within a reasonable period of time. The unwanted or innocent hitman must be given reasonable opportunity to retreat after being uncuffed.
+         4. Using animation commands as a means of avoiding damage and/or death. This includes, but is not limited to, commands like /fall or /rollfall.
       4. **Cheat**. Cheating includes:
          1. Using any modification or tool that may give you an unfair advantage over another player who does not use the tool or modification. This includes, but is not limited to any of the following:
             1. Aimbot
