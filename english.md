@@ -56,6 +56,7 @@
                1. Law enforcement - when chasing a wanted player
                2. Hitmen - when chasing a player with a hit
                3. Pagati - in the course of proper Pagati roleplay or when chasing a player with a hit
+            2. A law enforcement officer may retaliate in reference to 2.1.2.1.2. This exception is intended to allow law enforcement officers to protect themselves in the event they are being sought out by certain criminals to an extent that would be deemed harassment.
          3. Intentionally carrying out acts of suicide to trigger anti-DM measures on others. This includes, but is not limited to, deliberately jumping on helicopter blades with intent to quiz and/or jail the pilot.
       3. **Abuse commands**. Command abusing includes:
          1. Using /rp without a valid reason. Valid reasons include, but are not limited to:
