@@ -85,10 +85,11 @@
       5. **Place random hits**. Valid hit reasons include hitting a player within five (5) minutes of any of the following actions being taken:
          1. For successfully or unsuccessfully committing a "hostile action" against you as defined in rule 2.1.2.2.
          2. For arresting or fining you.
-         3. For damaging your vehicle.
-         4. For insulting you.
-         5. For following you for an extended period of time.
-         6. For placing a hit on you.
+         3. For carjacking you.
+         4. For damaging your vehicle.
+         5. For insulting you.
+         6. For following you for an extended period of time.
+         7. For placing a hit on you.
       6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**.
          1. EXCEPTIONS to rule 2.1.6:
             1. Waiting at least thirty (30) minutes before returning to the server is not a violation of rule 2.1.6.
