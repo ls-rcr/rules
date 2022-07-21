@@ -89,7 +89,7 @@
          5. For insulting you.
          6. For following you for an extended period of time.
          7. For placing a hit on you.
-      6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**. The automatic jail/hit system does not authorize violation of thise rule.
+      6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**. The automatic jail/hit system does not authorize violation of this rule.
          1. EXCEPTIONS to rule 2.1.6:
             1. Waiting at least thirty (30) minutes before returning to the server is not a violation of rule 2.1.6.
       7. **Enter an instanced or other area separated from what is accessible by the general public while being chased by someone allowed to kill you per rule 2.1.1**.
