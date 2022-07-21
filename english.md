@@ -80,7 +80,7 @@
          5. Warping through solid objects to evade a player allowed to kill you or to access an otherwise inaccessible area by entering the passenger seat of vehicles ("G" abuse).
          6. Refilling your armor more than once from weapon checkpoints in the middle of a fight.
          7. "C-Bugging" to fire any weapon quicker than allowed by circumventing the default animation.
-         8. Using unrealistic animations as a means of avoiding damage and/or death. This would include using a command like /fall in an area where a player would glitch under the ground or inside an object. Final determination of appropriate usage of an animation in a situation will be determined by administrators on a case-by-case basis utilizing human physical ability as the scale of determination of bug abuse versus realism.
+         8. Using animations as a means of avoiding damage and/or death. This includes, but is not limited to, /fall, /rollfall, roleplay buttons, and /dance. 
       5. **Place random hits**. Valid hit reasons include hitting a player within five (5) minutes of any of the following actions being taken:
          1. For successfully or unsuccessfully committing a "hostile action" against you as defined in rule 2.1.2.2.
          2. For arresting or fining you.
@@ -96,7 +96,7 @@
          1. EXCEPTIONS to rule 2.1.7:
             1. Entering an area that the chaser can enter is not a violation of rule 2.1.7.
             2. A criminal may escape law enforcement by entering the black market and is not a violation of rule 2.1.7.
-      8. **Exchange any Lsrcr goods or services for real-life currency**. These goods include, but are not limited to, donator points, jail cards, or duel cards.
+      8. **Exchange any Lsrcr goods or services for real-life currency, goods, or services**. Lsrcr goods include, but are not limited to, donator points, jail cards, or duel cards.
       9. **Scoreboost**. Scoreboosting is repeatedly selling items, weapons, etc, or otherwise increasing your score in a particular class by collaborating with another account or by any other means in order to increase your score at an expedited rate. Leaving to evade cooldown timers shall also be considered scoreboosting.
       10. **Improperly use chat channels**:
           1. All chat channels shall be used for their original intended purpose. This includes administrative channels such as /ask or /adm.
