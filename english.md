@@ -144,7 +144,7 @@
          1. For example:
             1. Tagging "@here" would be appropriate in the "#twitch-youtube" channel if advertising your current stream or a new YouTube video you uploaded.
             2. Tagging "@everyone" in "#general" to say "Come in game!" would not be appropriate.
-            3. Tagging "@SAMP Staff" in "#support" to say "ID 32 ([Lsrcr]Energ) is using airbrake. There are no admins online." would be appropriate.
+            3. Tagging "@SAMP Staff" in "#support" to say "ID 32 (\[Lsrcr\]Energ) is using airbrake. There are no admins online." would be appropriate.
 
 
 6. EXCEPTIONS to rules 1, 2, 3, 4, and 5:
