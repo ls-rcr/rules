@@ -80,7 +80,7 @@
          4. Entering the menu (Esc) or minimizing the game to evade a player allowed to kill you per rule 2.1.1.
          5. Warping through solid objects to evade a player allowed to kill you or to access an otherwise inaccessible area by entering the passenger seat of vehicles ("G" abuse).
          6. Refilling your armor more than once from weapon checkpoints in the middle of a fight.
-         7. C-Bugging to generate a faster reload time by circumventing the reloading animation.
+         7. "C-Bugging" to fire any weapon quicker than allowed by circumventing the default animation.
          8. Using unrealistic animations as a means of avoiding damage and/or death. This would include using a command like /fall in an area where a player would glitch under the ground or inside an object. Final determination of appropriate usage of an animation in a situation will be determined by administrators on a case-by-case basis utilizing human physical ability as the scale of determination of bug abuse versus realism.
       5. **Place random hits**. Valid hit reasons include hitting a player within five (5) minutes of any of the following actions being taken:
          1. For successfully or unsuccessfully committing a "hostile action" against you as defined in rule 2.1.2.2.
@@ -90,7 +90,7 @@
          5. For insulting you.
          6. For following you for an extended period of time.
          7. For placing a hit on you.
-      6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**.
+      6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**. The automatic jail/hit system does not authorize violation of thise rule.
          1. EXCEPTIONS to rule 2.1.6:
             1. Waiting at least thirty (30) minutes before returning to the server is not a violation of rule 2.1.6.
       7. **Enter an instanced or other area separated from what is accessible by the general public while being chased by someone allowed to kill you per rule 2.1.1**.
@@ -110,17 +110,17 @@
       14. **Own more than one non-donation house at a time**. This rule applies to each PERSON--meaning you may not set up multiple accounts to circumvent this rule.
           1. NOTE: When a donation house is transferred from one player to another (not purchased directly from Lsrcr with donation points), the house automatically becomes a non-donation house.
       15. **Trade any donation items other than donation points, jail cards, duel cards, or houses with other players**.
-          1. Players with these points are permitted to sell or trade them for any reason (within the constraints of rule 2.1.8).
+          1. Players with these items are permitted to sell or trade them for any reason (within the constraints of rule 2.1.8).
           2. Players may not directly ask others to trade unless responding to a generic public enquiry made in the game's main chat or a post on the forums. This also includes direct enquiries for free donation items.
       16. **Scam unless all of the following apply**:
-          1. Scammer does not have the [Lsrcr] tag.
+          1. Scammer does not have the [\Lsrcr\] tag.
           2. Scammer does not scam more than $300,000.
           3. Trade does not involve any donation items. This does not include a donated house.
           4. The victim of the scam has at least 500 score.
       17. **Ban evade**. You may not circumvent the ban system by creating another account and/or using a different IP address from the one that is banned.
-      18. **Asking staff members to do events or for packets, teleports, etc**.
-      19. **Interrupt Pagati in the course of official roleplay**. You should not deliberately carry out any actions that could lead to a player being withdrawn from officially announced Pagati roleplaying activity. This includes, but is not limited to, the following:
+      18. **Interrupt Pagati in the course of official roleplay**. You should not deliberately carry out any actions that could lead to disruption of officially announced (at the beginning of, every 5 minutes during, and at the end of roleplay) Pagati roleplaying activity. This includes, but is not limited to, the following:
           1. attacking, handcuffing, searching, arresting, raping, or kidnapping.
+      19. **Be a nuisance to staff**. Our staff are increasingly experiencing issues of players utilzing tools such as the private message system, administrator chat, and main chat to beg for things like group rights, donator items, administrator items, or other services that are not associated with administrative duties. While these instances of annoyance are already covered by other rules, we wanted to include this rule to specifically address the issue. If you are found in violation of this rule, you may be subject to an immediate ban.
 
 3. # Lsrcr Forum-Specific Rules
 
