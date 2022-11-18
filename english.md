@@ -121,6 +121,11 @@
       18. **Asking staff members to do events or for packets, teleports, etc**.
       19. **Interrupt Pagati in the course of official roleplay**. You should not deliberately carry out any actions that could lead to a player being withdrawn from officially announced Pagati roleplaying activity. This includes, but is not limited to, the following:
           1. attacking, handcuffing, searching, arresting, raping, or kidnapping.
+      20. **Gambling and trade specific rules:**
+          1. These rules only apply to players who do NOT have the [Lsrcr] tag. Tagged players should refrain from backing out of deals specific to rules 20.2 and 20.3.
+          2. In cases where gambling (EG. /roll) has taken place, a player is free to back out regardless of the outcome of the bet. It is down to the players to honour the original deal and establish a mutual trust. This applies to donation items (such as points, jailcards etc.) and ingame cash.
+          3. For **unofficial** events the same rule applies as 20.2, the player hosting the event enters into an agreement whereby a participand stands to gain. Note a participant is free to decide if they join events.   
+          4. Where a trade has been agreed (EG donation points for in-game cash), a player can back out of a deal regardless of if they have the tag or not. No scam has taken place unless a player refuses to return items gained in a trade or where the original deal has not been completed. For further information on scams see rule 16.
 
 3. # Lsrcr Forum-Specific Rules
 
