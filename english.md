@@ -90,6 +90,7 @@
          5. For insulting you.
          6. For following you for an extended period of time.
          7. For placing a hit on you.
+         8. For causing damage to your owned business (IE a robbery).
       6. **Leave the server while being pursued by law enforcement or by a hitman when you have a hit**.
          1. EXCEPTIONS to rule 2.1.6:
             1. Waiting at least thirty (30) minutes before returning to the server is not a violation of rule 2.1.6.
