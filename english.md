@@ -114,19 +114,17 @@
           1. Players with these points are permitted to sell or trade them for any reason (within the constraints of rule 2.1.8).
           2. Players may not directly ask others to trade unless responding to a generic public enquiry made in the game's main chat or a post on the forums. This also includes direct enquiries for free donation items.
       16. **Scam unless all of the following apply**:
-          1. Scammer does not have the [Lsrcr] tag.
-          2. Scammer does not scam more than $300,000.
-          3. Trade does not involve any donation items. This does not include a donated house.
-          4. The victim of the scam has at least 500 score.
+          1. Scammer does not scam more than $300,000.
+          2. Trade does not involve any donation items. This does not include a donated house.
+          3. The victim of the scam has at least 500 score.
       17. **Ban evade**. You may not circumvent the ban system by creating another account and/or using a different IP address from the one that is banned.
       18. **Asking staff members to do events or for packets, teleports, etc**.
       19. **Interrupt Pagati in the course of official roleplay**. You should not deliberately carry out any actions that could lead to a player being withdrawn from officially announced Pagati roleplaying activity. This includes, but is not limited to, the following:
           1. attacking, handcuffing, searching, arresting, raping, or kidnapping.
       20. **Gambling and trade specific rules:**
-          1. These rules only apply to players who do NOT have the [Lsrcr] tag. Tagged players should refrain from backing out of deals specific to rules 20.2 and 20.3.
-          2. In cases where gambling (EG. /roll) has taken place, a player is free to back out regardless of the outcome of the bet. It is down to the players to honour the original deal and establish a mutual trust. This applies to donation items (such as points, jailcards etc.) and ingame cash.
-          3. For **unofficial** events the same rule applies as 20.2, the player hosting the event enters into an agreement whereby a participant stands to gain. Note a participant is free to decide if they join events.   
-          4. Where a trade has been agreed (EG donation points for in-game cash), a player can back out of a deal regardless of if they have the tag or not. No scam has taken place unless a player refuses to return items gained in a trade where the original deal has not been completed. For further information on scams see rule 16.
+          1. In cases where gambling (EG. /roll) has taken place, a player is free to back out regardless of the outcome of the bet. It is down to the players to honour the original deal and establish a mutual trust. This applies to donation items (such as points, jailcards etc.) and ingame cash.
+          2. For **unofficial** events the same rule applies as 20.2, the player hosting the event enters into an agreement whereby a participant stands to gain. Note a participant is free to decide if they join events.   
+          3. Where a trade has been agreed (EG donation points for in-game cash), a player is free to back out of a deal. No scam has taken place unless a player refuses to return items gained in a trade where the original deal has not been completed. For further information on scams see rule 16.
 
 3. # Lsrcr Forum-Specific Rules
 
