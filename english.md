@@ -68,6 +68,7 @@
             1. Repeated cuffing of innocents or unwanted players who do not show hostility, following a /search.
             2. Utilizing the /cuff command as a weapon against an unwanted or innocent hitman. This rule does not restrict the use of /cuff to conduct one (1) search or /rp within a reasonable period of time. The unwanted or innocent hitman must be given reasonable opportunity to retreat after being uncuffed.
          3. Using animation commands as a means of avoiding damage and/or death. This includes, but is not limited to, commands like /fall or /rollfall.
+         4. Abuse the hit command by placing a hit on a player and then teaming with the player you placed the hit contract on.
       4. **Cheat**. Cheating includes:
          1. Using any modification or tool that may give you an unfair advantage over another player who does not use the tool or modification. This includes, but is not limited to any of the following:
             1. Aimbot
