@@ -125,6 +125,10 @@
           1. In cases where gambling (EG. /roll) has taken place, a player is free to back out regardless of the outcome of the bet. It is down to the players to honour the original deal and establish a mutual trust. This applies to donation items (such as points, jailcards etc.) and ingame cash.
           2. For **unofficial** events the same rule applies as 20.2, the player hosting the event enters into an agreement whereby a participant stands to gain. Note a participant is free to decide if they join events.   
           3. Where a trade has been agreed (EG donation points for in-game cash), a player is free to back out of a deal. No scam has taken place unless a player refuses to return items gained in a trade where the original deal has not been completed. For further information on scams see rule 16.
+      21. **Playing SAMP Mobile** is strictly prohibited on Ls-rcr due to the following:
+          1. The mobile version features aim assist, which closely resembles aimbot functionality, leading to unfair advantages. 
+          2. There are many bugs in the mobile version that can and do trigger autobans, resulting in innocent players being banned for no apparent reason.
+          3. From the perspective of PC players, mobile users sometimes appear to be cheating (in forms of airbreaking for example), and leads again to further bans of innocent players.
 
 3. # Lsrcr Forum-Specific Rules
 
