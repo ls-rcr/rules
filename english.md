@@ -145,9 +145,7 @@
       2. **Whisper spam** other users.
 
 5. # Lsrcr Discord-Specific Rules
-
-   1. The "Lsrcr Discord" is a subdivision of the "Half-a-Nerd" Discord. 
-   2. **You or your account(s) shall not--intentionally or unintentionally--do any of the following actions**:
+   1. **You or your account(s) shall not--intentionally or unintentionally--do any of the following actions**:
       1. **Spam tag other users/groups without a good reason**. If someone was recently tagged, do not tag them again unless necessary.
       2. **Tag "@everyone", "@here", or any other large group without good reason or justification**.
          1. For example:
@@ -156,7 +154,7 @@
             3. Tagging "@SAMP Staff" in "#support" to say "ID 32 ([Lsrcr]Energ) is using airbrake. There are no admins online." would be appropriate.
 
 
-6. EXCEPTIONS to rules 1, 2, 3, 4, and 5:
+7. EXCEPTIONS to rules 1, 2, 3, 4, and 5:
 
    1. Any Lsrcr administrator ranked level 4 and above is exempt from any rule that becomes necessary to violate in order to carry out administrative duties of Lsrcr as long as that duty falls within that administrator's assigned scope of duties.
       1. Some examples:
